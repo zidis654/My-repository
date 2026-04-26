@@ -1,1 +1,1 @@
-# My-repository
+# Example of README.md
